@@ -1,6 +1,6 @@
 			   Grand Frontiers Modpack						
 
-Yes, this CKAN preset has seven full systems. 
+Yes, this CKAN preset has seven full systems.(eight with stock)
 This took around half a week to sort out all the mods.
 
 CKAN MUST BE INSTALLED. Link:https://github.com/KSP-CKAN/CKAN/releases. When CKAN is launched, click file, Install from .ckan, go inside the folder this is in, and click open on optimized or regular. Then, click apply. All of these fantastic mods will then start applying to your ksp folder.
@@ -69,5 +69,6 @@ Disclaimer: The optimized version has limited visual mods and cosmic serenity de
 
 To you, thank you so much for downloading this mod pack. It means the world to me that someone took time out of their day to download my own planet pack.
 And not to forget, if this modpack becomes popular, I will post another one.
+
 Sincerely, Astrov
 
