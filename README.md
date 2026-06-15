@@ -68,6 +68,6 @@ zzzDeferred — rendering backend
 Disclaimer: The optimized version has limited visual mods and cosmic serenity deinstalled.
 
 To you, thank you so much for downloading this mod pack. It means the world to me that someone took time out of their day to download my own planet pack.
-
+And not to forget, if this modpack becomes popular, I will post another one.
 Sincerely, Astrov
 
