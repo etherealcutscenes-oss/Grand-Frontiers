@@ -1,0 +1,185 @@
+{
+    "spec_version": "v1.6",
+    "identifier": "GrandFrontiersOptimized",
+    "name": "Grand Frontiers Optimized",
+    "abstract": "A less dependent version of Grand Frontiers",
+    "author": "Astrov",
+    "version": "2026.06.15.12.16.44",
+    "ksp_version_min": "1.12.5",
+    "ksp_version_max": "1.12.5",
+    "license": "CC-BY-4.0",
+    "depends": [
+        {
+            "name": "Harmony2",
+            "version": "2.2.1.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSPBurst-Lite",
+            "version": "v1.7.4.11",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap",
+            "version": "0.3",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "B9PartSwitch",
+            "version": "v2.21.0.4",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSPBurst",
+            "version": "v1.7.4.11",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ParallaxContinued",
+            "version": "1.0.2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ParallaxContinued-Planet-Textures",
+            "version": "1.0.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ParallaxContinued-Scatter-Textures",
+            "version": "1.0.1",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ParallaxContinued-Terrain-Textures",
+            "version": "1.0.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Waterfall",
+            "version": "0.11.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ClickThroughBlocker",
+            "version": "1:2.1.10.22",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DynamicBatteryStorage",
+            "version": "2:2.3.7.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PromisedWorldsCore",
+            "version": "v2.0.4",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ToolbarController",
+            "version": "1:0.1.9.14",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CryoTanks",
+            "version": "1.6.7",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CryoTanks-Core",
+            "version": "1.6.7",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements",
+            "version": "3:1.11.7.2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FireflyAPI",
+            "version": "1.0.0.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KcalbelohSystem",
+            "version": "v1.1.8",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KcalbelohSystem-Textures-8k",
+            "version": "v1.1.8",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BetterTimeWarpCont",
+            "version": "2.3.14.1",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Deferred",
+            "version": "1.3.5.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DeployableEngines",
+            "version": "1.3.1",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements-HR",
+            "version": "2:EVE-1.2.2-1",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Firefly",
+            "version": "1.0.6",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KWRocketryRebalanced",
+            "version": "3.2.8.1",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PlanetShine",
+            "version": "0.2.6.6",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PromisedWorldsDebdeb",
+            "version": "v2.0.4",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PromisedWorldsTuun",
+            "version": "v2.0.4",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer",
+            "version": "3:v0.0878",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ShuttleLiftingBodyCormorantAeronology",
+            "version": "1.12.5b",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NewTantaresLV",
+            "version": "v16.2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "WaterfallRestock",
+            "version": "0.2.3",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "WaterfallExtensions",
+            "version": "0.4.0",
+            "suppress_recommendations": true
+        }
+    ],
+    "release_date": "2026-06-15T00:16:44.1272745Z",
+    "kind": "metapackage"
+}

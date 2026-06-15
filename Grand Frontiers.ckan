@@ -1,0 +1,170 @@
+{
+    "spec_version": "v1.6",
+    "identifier": "GrandFrontier",
+    "name": "Grand",
+    "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
+    "author": "Astrov",
+    "version": "2026.06.14.11.23.28",
+    "ksp_version_min": "1.12.5",
+    "ksp_version_max": "1.12.5",
+    "license": "CC-BY-4.0",
+    "depends": [
+        {
+            "name": "VertexMitchellNetravaliHeightMap",
+            "version": "0.3",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ScaledDecorator",
+            "version": "1.2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VertexColorMapEmissive",
+            "version": "v1.1.1",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KopernicusExpansionContinueder",
+            "version": "Beta9.1.1",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Singularity",
+            "version": "0.994",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CosmicSerenity-Core",
+            "version": "3.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ParallaxContinued",
+            "version": "1.0.2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ParallaxContinued-Planet-Textures",
+            "version": "1.0.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ParallaxContinued-Scatter-Textures",
+            "version": "1.0.1",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ParallaxContinued-Terrain-Textures",
+            "version": "1.0.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PromisedWorldsCore",
+            "version": "v2.0.4",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements",
+            "version": "3:1.11.7.2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KcalbelohSystem",
+            "version": "v1.1.8",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KcalbelohSystem-Textures-8k",
+            "version": "v1.1.8",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BetterTimeWarpCont",
+            "version": "2.3.14.1",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityTechTree",
+            "version": "1:3.4.5",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CosmicSerenity-Anubis",
+            "version": "3.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CosmicSerenity-Atlas",
+            "version": "3.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CosmicSerenity-Hades",
+            "version": "3.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CosmicSerenity-Yunxiao",
+            "version": "3.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Deferred",
+            "version": "1.3.5.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DistantObject",
+            "version": "v2.2.1.6",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements-HR",
+            "version": "2:EVE-1.2.2-1",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FarFutureTechnologies",
+            "version": "1.4.2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Firefly",
+            "version": "1.0.6",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HeatControl",
+            "version": "0.6.2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PersistentThrust",
+            "version": "1:1.7.5",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PlanetShine",
+            "version": "0.2.6.6",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PromisedWorldsDebdeb",
+            "version": "v2.0.4",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PromisedWorldsTuun",
+            "version": "v2.0.4",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer",
+            "version": "3:v0.0878",
+            "suppress_recommendations": true
+        }
+    ],
+    "release_date": "2026-06-14T23:23:28.3137299Z",
+    "kind": "metapackage"
+}
