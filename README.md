@@ -1,4 +1,5 @@
-			   Grand Frontiers Modpack						
+<img width="1864" height="1042" alt="image" src="https://github.com/user-attachments/assets/25d84b3c-072c-4f87-b2ed-40732849db01" />
+				
 
 Yes, this CKAN preset has seven full systems.(eight with stock)
 This took around half a week to sort out all the mods.
